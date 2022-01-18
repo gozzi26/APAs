@@ -1,1 +1,7 @@
-# step-initiation-APAs-experimental-characterization
+#EXPERIMENTAL CHARACTERIZATION OF ANTICIPATORY POSTURAL ADJUSTMENTS PRIOR TO STEP INITIATION 
+
+##Abstract
+The gait/step initiation is a functional task used to investigate how the central nervous system controls balance. It is an exercise that requires the integration of multiple sensory information and requires the control and coordination of numerous skeletal muscles distributed throughout the body. The body responds controlling the balance during, after and even before the execution of this exercise. Understanding how the central nervous system acts during the gait/step initiation is a precondition to identify motor disorders in populations that present problems with the postural system.
+This experiment has examined anticipatory movements on the path, and aims to characterize them and observe their changes in response to different external variables.
+Five healthy subjects were examined. The instrumentation consists of a force platform and three IMUs (2 for the ankles and 1 for the trunk). The subjects performed 15 tasks 3 times each following specific instructions given by the examiner. The algorithm extracted the peak value of the antero-posterior (AP) and middle-lateral (ML) centre of pressure (CoP), the time between APA onset and APA peak, the AP and ML peak value of trunk acceleration.
+The results showed that the execution speed and the number of steps modify the duration of the APA and the value of the CoP peaks. Step length variations influenced only the CoP peaks’ values. It is interesting to note how varying the reaction time, adding cognitive tasks and performing the task with eyes closed has led to a decrease in duration and time-to-peak and an increase in ML and AP peaks.
