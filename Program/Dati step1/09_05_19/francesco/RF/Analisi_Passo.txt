@@ -1,0 +1,4 @@
+Passo,	Cadenza [ps/min],	Lunghezza Passo [m],	Velocita' [km/h],	Durata [sec],	Fase volo [%],	Fase appoggio [%],	Durata singolo supporto [%],	Durata doppio supporto [%],	Asimmetria [%(log)],	Altezza passo [º],	Postura [deg],	Campione[frame],	
+2,	1,	5.17,	0.28,	67.43,	3,	97,	0,	97,	26,	-6,	11.3,	25377,	
+3,	0,	1.03,	0.02,	220.26,	97,	3,	0,	3,	100,	7,	12.1,	47403,	
+4,	0,	0.32,	0.01,	159.86,	47,	53,	1,	52,	24,	3,	14.5,	63389,	
