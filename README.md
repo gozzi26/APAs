@@ -1,4 +1,4 @@
-# EXPERIMENTAL CHARACTERIZATION OF ANTICIPATORY POSTURAL ADJUSTMENTS PRIOR TO STEP INITIATION 
+This is my bachelor degree thesis.
 
 ## Abstract
 The gait/step initiation is a functional task used to investigate how the central nervous system controls balance. It is an exercise that requires the integration of multiple sensory information and requires the control and coordination of numerous skeletal muscles distributed throughout the body. The body responds controlling the balance during, after and even before the execution of this exercise. Understanding how the central nervous system acts during the gait/step initiation is a precondition to identify motor disorders in populations that present problems with the postural system.
